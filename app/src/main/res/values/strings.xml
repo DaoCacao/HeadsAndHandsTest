@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HeadsAndHands Test</string>
+
+    <string name="authorization">Авторизация</string>
+    <string name="create">Создать</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+
+    <string name="wrong_email">Неверный e-mail</string>
+    <string name="wrong_password">Неверный пароль</string>
+
+    <string name="password_validation_hint">Пароль должен состоять из минимум 6 символов и содержать 1 строчную букву, 1 заглавную, и 1 цифру</string>
+
+    <string name="confirm_exit_title">Вы уверены, что хотите выйти?</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="exit">Выйти</string>
+    <string name="ok">Ok</string>
+    <string name="no_internet_connection">Нет интернет соединения</string>
+</resources>
