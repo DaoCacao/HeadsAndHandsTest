@@ -1,3 +1,3 @@
 "# HeadsAndHandsTest" 
 
-![alt text](https://github.com/DaoCacao/HeadsAndHandsTest/blob/master/screenshots/1.png)
+![alt text](screenshots/1.png)
